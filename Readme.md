@@ -14,7 +14,7 @@ Los algoritmos probados se pueden dividir en tres clases principales, se explica
     - MF_based_algorithms.ipynb
     - NMF.ipynb
     - SVDpp.ipynb
-3. **Neural Networks / ML**: (rellenar explicacion)
+3. **Neural Networks / ML**: Estos son los modelos más utilizados desde el punto de vista de Machine Learning y Deep Learning. Para la mayoria de problemas en los que se utiliza la IA estos son modelos que funcionan bien y por lo que se ve también se adaptan relativamente bien a los sitemas de recomendación.
     - KNN.ipynb
     - MachineLearning.ipynb
     - DeepLEarning.ipynb
