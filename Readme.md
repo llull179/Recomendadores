@@ -3,7 +3,7 @@
 Lluís Llull, Pablo Verde, Pablo Martín
 
 ---
-
+[Link al repositorio](https://github.com/llull179/Recomendadores/settings)
 [Kaggle](https://www.kaggle.com/competitions/recsys-filtrado-colaborativo-24-25/overview)
 
 Los algoritmos probados se pueden dividir en tres clases principales, se explican a continuación estos grupos de algoritmos y los notebooks que incluyen sus experimentos.
