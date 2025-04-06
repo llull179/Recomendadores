@@ -58,7 +58,7 @@ Se definen una serie de conceptos para entender mejor la tabla de resultados:
 ## Conclusiones
 - Destaca como el modelo de Deep learning funciona mejor sin rellenar la media, puede ser que el propio modelo busque un valor por defecto óptimo o un patrón útil a la hora de predecir un ítem o usuario que no existe en el conjunto de train.
 - Por simples que parezcan, los métodos basados en estadísticos, por ejemplo la media, no da malos resultados. Esto es importante tenerlo en consideración, ya si bien es cierto que no es una técnica robusta, es una técnica que nos puede servir para terminar de afinar diferentes modelos, como en el caso de no tener los ítems o usuarios que existen.
-- SVD++ ha sido el mejor modelo obtenido con un score de 1.270
+- SVD++ con media fill y rounded ha sido el mejor modelo obtenido con un score de 1.237
 
 
 ### Líneas futuras
