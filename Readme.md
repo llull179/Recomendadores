@@ -2,6 +2,8 @@
 
 Lluís Llull, Pablo Verde, Pablo Martín
 
+Todo el material se encuentra dentro de la carpeta *Competición 1*
+
 ---
 [Link al repositorio](https://github.com/llull179/Recomendadores/settings)
 [Kaggle](https://www.kaggle.com/competitions/recsys-filtrado-colaborativo-24-25/overview)
