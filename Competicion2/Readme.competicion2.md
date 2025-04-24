@@ -36,7 +36,9 @@ Los algoritmos probados se pueden dividir en varias clases principales, se expli
 |---|---|---|
 |SVDpp|1.024|SVDpp|
 |---|---|---|
-|XGBoost|0.7261|arboles_decision|
+|XGBoost variables simples|0.7293|arboles_decision|
+|XGBoost variables simples + ciudad + categories|0.7266|arboles_decision|
+|XGBoost variables simples + atributes|0.7261|arboles_decision|
 |---|---|---|
 |Red neuronal limited|0.5166|DL|
 |Red neuronal categorizando|0.4755|DL|
