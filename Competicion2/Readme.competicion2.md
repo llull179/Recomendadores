@@ -13,7 +13,7 @@ Los algoritmos probados se pueden dividir en varias clases principales, se expli
 
 1. **Stadistics based**: Modelos basados en estadísticos, principalmente medias, a modo de testeo y para tener referencias.
     - metodos_estadisticos.ipynb
-2. **MF based**: Algorítmos basados en *Matrix Factorization*. Son algoritmos que descomponen una matriz de interacciones usuario-ítem en dos matrices de factores latentes más pequeñas, permitiendo predecir valores desconocidos. Los algoritmos incluidos son  SVD, SVD++.
+2. **MF based**: Algorítmos basados en *Matrix Factorization*. Son algoritmos que descomponen una matriz de interacciones usuario-ítem en dos matrices de factores latentes más pequeñas, permitiendo predecir valores desconocidos. Para ello se ha utilizado el algoritmo de SVD++.
     - SVDpp.ipynb
 3. **Neural Networks / ML**: Estos son los modelos más utilizados desde el punto de vista de Machine Learning y Deep Learning. Para la mayoria de problemas en los que se utiliza la IA estos son modelos que funcionan bien y por lo que se ve también se adaptan relativamente bien a los sitemas de recomendación.
     - DL_categorizando_embedings.ipynb
