@@ -44,6 +44,9 @@ Los algoritmos probados se pueden dividir en varias clases principales, se expli
 |Red neuronal texto|0.4755|DL|
 |Red neuronal textorounded|0.4092|DL|
 |---|---|---|
+|Aprendizaje automático ridge|0.6479|ML|
+|Aprendizaje automático ridge rounded|0.6194|ML|
+|---|---|---|
 |bert-base-multilingual-uncased-sentiment|0.4067|trans_sentiment_clas|
 |lora-bert-base-multilingual-uncased-sentiment|0.2918|lora_trans_sentiment_clas|
 |---|---|---|
