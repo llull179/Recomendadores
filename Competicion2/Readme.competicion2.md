@@ -57,6 +57,10 @@ Los algoritmos probados se pueden dividir en varias clases principales, se expli
 |---|---|---|
 |mean ensemble|0.3507|Voting|
 |voting ensemble|0.3507|Voting|
+|not equal LoRa|0.3609|Voting|['red']*10 + 
+
+
+![Results Image](./results.png)
 
 
 ## Conclusiones
