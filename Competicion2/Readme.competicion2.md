@@ -19,7 +19,7 @@ Los algoritmos probados se pueden dividir en varias clases principales, se expli
     - DL_categorizando_embedings.ipynb
     - DL_texto_embedings.iynb
     - arboles_Decision
-4. **Trasnformers**: Se usan técnicas basadas en *Transformers* que utilizan NLP para realizar las predicciones en función de los textos proporcionados:
+4. **Transformers**: Se usan técnicas basadas en *Transformers* que utilizan NLP para realizar las predicciones en función de los textos proporcionados:
     - Modelos de clasificacion de sentimiento exsitentes
     - LoRa
 5. **Ensemble**:
